@@ -31,7 +31,7 @@ This project is a simple web application built using **Flask**. It features a ba
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/MaozGram/SeleniumAutomateFlaskLogin
    cd flask_login_selenium
    ```
 
